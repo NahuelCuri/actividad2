@@ -1,7 +1,7 @@
 
 # actividad2
 
-Nahuel
+Nahuel Curi
 
 Guillermo giraldo
 
