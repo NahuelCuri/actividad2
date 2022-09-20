@@ -1,4 +1,7 @@
 # actividad2
 
 Nahuel
-Fabian Bevacqua
+
+Fabian Bevacqua 
+
+Matteo Lovatto
